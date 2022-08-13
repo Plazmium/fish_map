@@ -1,0 +1,17 @@
+{
+  "Title": "fish map",
+  "Type": "map",
+  "Org": "plazmium",
+  "Ident": "fish_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": []
+  }
+}
